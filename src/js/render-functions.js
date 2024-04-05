@@ -1,4 +1,3 @@
-
 import { lightbox } from "../main";
 import { preloader } from "../main";
 import iziToast from "izitoast";
